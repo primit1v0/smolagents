@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "task": "Cari berita teknologi AI terbaru hari ini, ringkas 5 poin penting, simpan ke workspace/berita_ai.md",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "task": "Buat file workspace/info_sistem.txt berisi: tanggal sekarang, versi Python, daftar package yang terinstall di venv",
+    "status": "pending"
+  }
+]
+
